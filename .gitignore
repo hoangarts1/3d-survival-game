@@ -1,0 +1,40 @@
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# Unity caches and artifacts
+MemoryCaptures/
+Recordings/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.unityproj
+*.tmproj
+*.suo
+*.tmp
+*.tmp.meta
+*.pidb.meta
+*.booproj.meta
+*.svd.meta
+*.DS_Store
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Visual Studio
+.vs/
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
